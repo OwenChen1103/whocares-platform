@@ -39,27 +39,31 @@ The product is deliberately **non-clinical**. Prompts and copy are constrained a
 
 ## Screenshots
 
-<!-- Put images in docs/screenshots/ and keep these filenames, or update the paths. -->
-
-**Patient — health home with AI summary**
-Daily readings with abnormality flags, chronic-condition tags, an AI-generated family-readable summary card, and upcoming appointments.
-
-![Patient health home](docs/screenshots/patient-health-home.png)
-
-**Caregiver — multi-recipient overview**
-One family member often cares for several elders. The overview switches between recipients and surfaces a computed health score, next appointment, quick-log actions, and a direct entry point to request a service.
-
-![Caregiver overview](docs/screenshots/caregiver-overview.png)
-
-**Provider — assigned task list**
-Task-scoped, not recipient-scoped: a provider sees only what an assigned service request exposes. Status counters, a week strip, and per-task detail.
-
-![Provider tasks](docs/screenshots/provider-tasks.png)
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="docs/screenshots/patient-health-home.png" width="240"><br>
+<b>Patient — health home</b><br>
+<sub>Readings with abnormality flags, chronic-condition tags, an AI-generated family-readable summary, and upcoming appointments.</sub>
+</td>
+<td width="33%" align="center">
+<img src="docs/screenshots/caregiver-overview.png" width="240"><br>
+<b>Caregiver — multi-recipient overview</b><br>
+<sub>Switches between elders in one family. Computed health score, next appointment, quick-log actions, direct path to request a service.</sub>
+</td>
+<td width="33%" align="center">
+<img src="docs/screenshots/provider-tasks.png" width="240"><br>
+<b>Provider — assigned tasks</b><br>
+<sub>Task-scoped, not recipient-scoped: a provider sees only what an assigned service request exposes.</sub>
+</td>
+</tr>
+</table>
 
 **Admin — service request console**
+
 Cross-tenant operations. Every privileged mutation writes an `AdminActionLog` row; the console also has a role-preview mode for verifying permission boundaries from the inside.
 
-![Admin console](docs/screenshots/admin-console.png)
+<img src="docs/screenshots/admin-console.png" width="720">
 
 ---
 
