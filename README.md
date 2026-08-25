@@ -4,7 +4,9 @@
 >
 > **~48k lines of first-party TypeScript · 70 API handlers · 22 database models · 167 commits over 5.5 months.**
 
-This repository is private. This README documents the architecture, the design decisions behind it, and — in the last section — where it would break under real load.
+The source for this project is private. This repository documents the architecture,
+the design decisions behind it, and — in the last section — where it would break
+under real load.
 
 ---
 
