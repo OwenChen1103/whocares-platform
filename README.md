@@ -44,17 +44,17 @@ The product is deliberately **non-clinical**. Prompts and copy are constrained a
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="docs/screenshots/patient-health-home-v2.png" width="240"><br>
+<img src="docs/screenshots/patient-health-home-v3.png" width="240"><br>
 <b>Patient — health home</b><br>
 <sub>Readings with abnormality flags, chronic-condition tags, an AI-generated family-readable summary, and upcoming appointments.</sub>
 </td>
 <td width="33%" align="center">
-<img src="docs/screenshots/caregiver-overview-v2.png" width="240"><br>
+<img src="docs/screenshots/caregiver-overview-v3.png" width="240"><br>
 <b>Caregiver — multi-recipient overview</b><br>
 <sub>Switches between elders in one family. Computed health score, next appointment, quick-log actions, direct path to request a service.</sub>
 </td>
 <td width="33%" align="center">
-<img src="docs/screenshots/provider-tasks-v2.png" width="240"><br>
+<img src="docs/screenshots/provider-tasks-v3.png" width="240"><br>
 <b>Provider — assigned tasks</b><br>
 <sub>Task-scoped, not recipient-scoped: a provider sees only what an assigned service request exposes.</sub>
 </td>
